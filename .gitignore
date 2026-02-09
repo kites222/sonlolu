@@ -1,4 +1,9 @@
+# Node stuff
 node_modules/
 
+# Sonolus build folders
 pack/
 static/
+
+# Ignore README
+README.md
